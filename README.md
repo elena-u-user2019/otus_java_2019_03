@@ -1,2 +1,3 @@
-# otus_java_2019_03
-домашние задания по курсу Java
+Группа 2019_03
+Студент: Elena Utemisheva(Елена Утемишева)
+elena.u.utemisheva@gmail.com
