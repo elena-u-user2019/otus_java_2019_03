@@ -21,3 +21,8 @@
 
 # Virtual machine crash logs
 hs_err_pid*
+
+# idea files
+.idea/
+target/
+*.iml
